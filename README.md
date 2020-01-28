@@ -2,8 +2,8 @@
 Web-Scrapping using NodeJs and Cheerio.js of IMDB website and displaying the results
 
 # Installing dependencies
-*1)Clone the repo*
-*2)In the root directory run:*
+*1)Clone the repo*  
+*2)In the root directory run:*  
 ##
 ```
 npm install
@@ -14,4 +14,4 @@ npm install
 ```
  http://localhost:3005
 ```
-**You are ready to go!!!
+**You are ready to go!!!**
